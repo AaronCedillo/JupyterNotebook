@@ -3,11 +3,5 @@
 
 #                                         # Data Analysis #
 #                                         
-# Adrian Aarón Cedillo Huerta
-# Git: https://github.com/AaronCedillo
-
-# In[ ]:
-
-
-
-
+#                                     Adrian Aarón Cedillo Huerta 
+#                                 Git: https://github.com/AaronCedillo
